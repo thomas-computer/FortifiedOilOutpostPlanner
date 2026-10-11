@@ -175,6 +175,13 @@ common.simple_entity_selections = {
     max_size=1,
     allow_none=true
   },
+  {
+    name="solar-panel",
+    filter_type="solar-panel",
+    default="none",
+    max_size=3,
+    allow_none=true
+  }
 }
 
 return common
