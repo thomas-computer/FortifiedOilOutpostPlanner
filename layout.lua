@@ -1613,6 +1613,8 @@ function layout.Plan(player, player_data, entities)
   local heat_pipe_type = player_data.choices["heat-pipe_choice"]
   local beacon_type = player_data.choices.beacon_choice
   local power_pole_type = player_data.choices.pole_choice
+  local solar_panel_type = player_data.choices["solar-panel_choice"]
+  local accumulator_type = player_data.choices.accumulator_choice
 
   local default_quality_proto = common.get_default_quality()
   local default_quality = nil
