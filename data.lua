@@ -1,4 +1,4 @@
-local graphics = "__OilOutpostPlanner__/graphics/"
+local graphics = "__FortifiedOilOutpostPlanner__/graphics/"
 
 data:extend(
 {

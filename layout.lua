@@ -159,7 +159,7 @@ local function AddLandfillUnder(args)
   do
     if not ghost.valid
     then
-      args.debug("Invalid ghost. Entities placed overlapping.  Please report this as a bug in OilOutpostPlanner")
+      args.debug("Invalid ghost. Entities placed overlapping.  Please report this as a bug in FortifiedOilOutpostPlanner")
       goto skip_ghost
     end
 

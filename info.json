@@ -1,9 +1,9 @@
 {
- "name": "OilOutpostPlanner",
- "version": "1.7.0",
+ "name": "FortifiedOilOutpostPlanner",
+ "version": "0.1.0",
  "factorio_version": "2.1",
- "title": "Oil Outpost Planner",
- "author": "Coppermine",
- "description": "Automatically blueprint pumpjacks, pipes, and power poles for an oil outpost.  Inspired by, and using some code from, Mining patch planner, by Rimbas",
- "dependencies": []
+ "title": "Fortified Oil Outpost Planner",
+ "author": "thomas-computer",
+ "description": "Automatically blueprint pumpjacks, pipes, and power poles for an oil outpost, as well as adding solar panels, accumulators, and flamethrowers. Inspired by and forked from Oil Outpost Planner by Coppermine, which, in turn, was inspired by and used some code from Mining Patch Planner by Rimbas.",
+ "dependencies": ["! OilOutpostPlanner"
 }
