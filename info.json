@@ -5,5 +5,5 @@
  "title": "Fortified Oil Outpost Planner",
  "author": "thomas-computer",
  "description": "Automatically blueprint pumpjacks, pipes, and power poles for an oil outpost, as well as adding solar panels, accumulators, and flamethrowers. Inspired by and forked from Oil Outpost Planner by Coppermine, which, in turn, was inspired by and used some code from Mining Patch Planner by Rimbas.",
- "dependencies": ["! OilOutpostPlanner"
+ "dependencies": ["! OilOutpostPlanner"]
 }
