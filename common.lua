@@ -181,6 +181,13 @@ common.simple_entity_selections = {
     default="none",
     max_size=3,
     allow_none=true
+  },
+  {
+    name="accumulator",
+    filter_type="accumulator",
+    default="none",
+    max_size=2,
+    allow_none=true
   }
 }
 
